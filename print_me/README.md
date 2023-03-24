@@ -1,6 +1,6 @@
-# print_me
+# print_me.py [![Python 3.11](https://img.shields.io/badge/Python-3.11-informational?logo=python)](https://shields.io/)
 
-[![Python 3.11](https://img.shields.io/badge/Python-3.11-informational?style=for-the-badge&logo=python)](https://shields.io/)
+
 
 A CLI starter project in Python. Simply run the code, input your message, and watch the message print out and replace the input prompt.
 
